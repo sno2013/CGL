@@ -1,4 +1,4 @@
 CGL
 ===
 
-City Golf League Project
+City Golf League Web Application Project
